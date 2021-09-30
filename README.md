@@ -4,7 +4,7 @@ Insights of Major League Baseball data from 1914 to 2019. The data contained pla
 
 ![MLB 500 HR](mlb500.png)
 
-Please visit my tableau public profile to view the visualization
+Please visit my tableau public profile to view the visualization: <br>
 https://public.tableau.com/app/profile/laila/viz/MLB500HomeRun/Dashboard1
 
 ## Home Run History
